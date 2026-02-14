@@ -47,7 +47,7 @@ UIDAI-Project-Files/
 ├── Data/                # Dataset files used
 ├── Screenshots/         # Dashboard preview images
 └── UIDAI_Aadhar_Analytics1.pbix   # Power BI dashboard file
-
+---
 
 🚀 Key Insights Generated
 - Regional differences in Aadhaar enrolment activity
