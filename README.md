@@ -43,10 +43,13 @@ The goal of this project is to transform raw government datasets into meaningful
  📁 Project Structure
 
 UIDAI-Project-Files/
-│
-├── Data/                # Dataset files used
-├── Screenshots/         # Dashboard preview images
-└── UIDAI_Aadhar_Analytics1.pbix   # Power BI dashboard file
+
+── Data/                # Dataset files used
+
+── Screenshots/         # Dashboard preview images
+
+── UIDAI_Aadhar_Analytics1.pbix   # Power BI dashboard file
+
 ---
 
 🚀 Key Insights Generated
